@@ -1,10 +1,12 @@
 ### Greetings, Digital Voyager <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jan Jakubcik
 <h3>Full-Stack Developer, Part-Time Software Architect, Keen Dream Weaver</h3>
 
-Keystrokes tell of love and logic’s dance,
-In code's realm, dreams get their chance.
-With ☕️ and algorithms in a trance,
-Building worlds in a forward advance.
+```
+In the symphony of keystrokes, logic takes its stance,
+In the realm of code, ideas find their chance.
+☕️ and algorithms set my heart in a dance,
+Crafting health-tech solutions in a forward advance.
+```
 
 - 🔭 Currently spearheading green field projects at **Siemens Healthcare s.r.o**
 
