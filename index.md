@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+### Greetings, Digital Voyager <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jan Jakubcik
+<h3>Full-Stack Developer, Part-Time Software Architect, Keen Dream Weaver</h3>
 
-You can use the [editor on GitHub](https://github.com/Johnz86/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Keystrokes tell of love and logic’s dance,
+In code's realm, dreams get their chance.
+With ☕️ and algorithms in a trance,
+Building worlds in a forward advance.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🔭 Currently spearheading green field projects at **Siemens Healthcare s.r.o**
 
-### Markdown
+- 🌐 Proficient in the languages of **Slovak (native), English (professional) and German (understanding)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🌱 On a continuous learning journey, currently exploring **AI art generation and visual programming for image creation**
 
-```markdown
-Syntax highlighted code block
+- 👨‍💻 My digital home: [https://github.com/Johnz86](https://github.com/Johnz86)
 
-# Header 1
-## Header 2
-### Header 3
+- 📫 Contact me at **jakubcikjan@gmail.com**
 
-- Bulleted
-- List
+- 📚 Apart from my digital life, I am a fervent traveller🌍, an avid reader of fantasy books📖 and LitRPG, an explorer of the human psyche🧠, an indie game enthusiast🎮, a creative graphics lover🎨, a web tech aficionado💻, and a cappuccino and beer connoisseur☕🍻
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Johnz86/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- ⚡ Fun fact: **Dedicated to leading and ensuring high software quality standards, I have a keen interest in healthcare industry challenges.**
+`
